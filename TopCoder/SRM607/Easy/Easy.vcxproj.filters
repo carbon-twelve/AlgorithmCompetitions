@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\BoundingBox.cpp">
+    <ClCompile Include="BoundingBox.cpp">
       <Filter>ソース ファイル</Filter>
     </ClCompile>
   </ItemGroup>
